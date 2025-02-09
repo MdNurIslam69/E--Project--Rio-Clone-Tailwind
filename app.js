@@ -112,6 +112,7 @@ closeIcon4[0].addEventListener("click", () => {
   openIcon4[0].style.display = "block";
   closeIcon4[0].style.display = "none";
   accordionTittle4[0].style.background = "#eeebeb3f";
+  accordionTittle4[0].style.color = "black";
 });
 
 //
